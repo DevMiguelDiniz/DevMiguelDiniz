@@ -1,5 +1,5 @@
 <h1 align="center">Me chamo Miguel Figueiredo Diniz</h1>
-<h3 align="center">Estudante de Engenharia de Software na PUC Minas, tecnico em Automação Industrial pelo Senai de Pedro Leopoldo. Sou um entusiasta da programação e do ramo tecnológico. No meu tempo livre eu gosto de jogar, escrever e praticar violão.</h3>
+<h3 align="center">Estudante de Engenharia de Software na PUC Minas e tecnico em Automação Industrial pelo Senai de Pedro Leopoldo. Sou um entusiasta da programação e do ramo tecnológico. No meu tempo livre eu gosto de jogar, escrever e praticar violão.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=devmigueldiniz&label=Profile%20views&color=0e75b6&style=flat" alt="devmigueldiniz" /> </p>
 
