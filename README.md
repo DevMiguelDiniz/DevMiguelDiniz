@@ -1,5 +1,5 @@
 # 💫 Sobre mim:
-🔭 Atualmente estou focado no [Gnosi](https://github.com/ICEI-PUC-Minas-PMGES-TI/pmg-es-2024-2-ti2-3687100-gnosi), uma plataforma de cursos<br>🌱 No momento estou estudando Ruby on Rails
+🔭 Atualmente estou focado no [Gnosi](https://github.com/ICEI-PUC-Minas-PMGES-TI/pmg-es-2024-2-ti2-3687100-gnosi), uma plataforma de cursos<br>🌱 No momento estou estudando Ruby on Rails<br>⚡Sou entusiasta de moda, principalmente streetwear
 
 
 ## 🌐 Redes:
