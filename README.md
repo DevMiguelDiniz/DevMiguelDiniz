@@ -1,6 +1,6 @@
 # 💫 Sobre mim:
-<br>🌱 No momento estou estudando Ruby on Rails<br>⚡Sou estudante de Engenharia de Software na PUC Minas e atualmente estou no terceiro semestre
-
+<br>🌱 No momento estou estudando Ruby on Rails<br>⚡Sou estudante de Engenharia de Software na PUC Minas e atualmente estou no terceiro semestre<br>
+🥽 Trabalhos interdisciplinares desenvolvidos:<br> 1º semestre: [![CookConnect](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)](https://github.com/DevMiguelDiniz/pmg-es-2024-1-ti1-2010100-cook-connect) <br> 2º semestre: [![Gnosi](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)](https://github.com/DevMiguelDiniz/pmg-es-2024-2-ti2-3687100-gnosi)
 
 ## 🌐 Redes:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/miguerit0) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/miguel-diniz-012149317/) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/u/Miguerit0) 
