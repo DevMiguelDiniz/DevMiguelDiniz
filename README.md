@@ -22,7 +22,7 @@ Construo aplicações web e mobile de ponta a ponta — da modelagem do banco e 
 - 🤝 Experiência em **trabalho em equipe** com metodologias ágeis: todos os projetos abaixo foram desenvolvidos em grupos de 4 a 7 pessoas, com clientes e professores orientadores
 - ☁️ Já coloquei projetos em produção na **AWS**, **Vercel**, **Render** e **Docker**
 - 🌱 Estudando atualmente: **Ruby on Rails**
-- 📫 Aberto a oportunidades de **estágio e desenvolvimento júnior**
+- 📫 Aberto a oportunidades de **desenvolvimento júnior/pleno**
 
 ---
 
