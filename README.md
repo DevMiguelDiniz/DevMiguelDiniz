@@ -18,11 +18,34 @@ Construo aplicações web e mobile de ponta a ponta — da modelagem do banco e 
 ## 🧑‍💻 Sobre mim
 
 - 🎓 Cursando **Engenharia de Software** na **PUC Minas**
-- 🛠️ Foco em **desenvolvimento full stack** com TypeScript (Next.js, NestJS), Java (Spring Boot) e Flutter
+- ☕ Minha maior experiência é com **Java e Spring Boot**, em produto real na **Jedis** (veja o RHapido v2 abaixo)
+- 🛠️ Atuo como **full stack** com TypeScript (Next.js, NestJS) e Flutter
 - 🤝 Experiência em **trabalho em equipe** com metodologias ágeis: todos os projetos abaixo foram desenvolvidos em grupos de 4 a 7 pessoas, com clientes e professores orientadores
 - ☁️ Já coloquei projetos em produção na **AWS**, **Vercel**, **Render** e **Docker**
 - 🌱 Estudando atualmente: **Ruby on Rails**
 - 📫 Aberto a oportunidades de **desenvolvimento júnior/pleno**
+
+---
+
+## 💼 Experiência profissional
+
+### ⚡ RHapido v2 — SaaS de recrutamento e seleção (ATS) · [Jedis](https://rhapido.com.br)
+
+Plataforma **multi-tenant** em produção, usada por várias empresas para gerenciar todo o processo seletivo, da vaga à contratação. Mais de **460 commits** meus no repositório.
+
+🌐 **Aplicação real em produção:** [jdsdev.rhapido.app](https://jdsdev.rhapido.app)
+
+- **Back-end em Java 17 + Spring Boot 3** (Web, Data JPA, Security, WebSocket, Validation, Actuator) com **PostgreSQL**
+- **Multi-tenancy** por subdomínio, com isolamento de dados por `tenant_id` via interceptors e entidades base
+- **Autenticação e segurança:** JWT + refresh tokens, perfis de acesso, rate limiting (Bucket4j) e validação de uploads (Apache Tika)
+- **Kanban de candidaturas em tempo real** com WebSocket (STOMP)
+- **Match Score** automático, avaliação comportamental **DISC**, banco de talentos e feeds XML para job boards (Indeed, Jooble, LinkedIn)
+- **Arquitetura em camadas** (Controller / Service / Repository / DTO), consultas dinâmicas com JPA Specifications e modelos de leitura dedicados para relatórios
+- **Cloud e DevOps:** Docker, AWS (S3, EKS, ECR), Terraform, ArgoCD (GitOps), GitHub Actions e observabilidade com Sentry
+
+![Java](https://img.shields.io/badge/Java_17-ED8B00?style=flat-square&logo=openjdk&logoColor=white) ![Spring Boot](https://img.shields.io/badge/Spring_Boot_3-6DB33F?style=flat-square&logo=springboot&logoColor=white) ![Spring Security](https://img.shields.io/badge/Spring_Security-6DB33F?style=flat-square&logo=springsecurity&logoColor=white) ![JPA](https://img.shields.io/badge/JPA%20%2F%20Hibernate-59666C?style=flat-square&logo=hibernate&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white) ![Next.js](https://img.shields.io/badge/Next.js_15-000?style=flat-square&logo=nextdotjs&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white) ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white) ![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white)
+
+> O código é privado (repositório da empresa), mas posso detalhar a arquitetura e minhas contribuições em uma conversa.
 
 ---
 
@@ -34,7 +57,7 @@ Um projeto em equipe por semestre, cada um com mais complexidade técnica e prob
 |:---:|---|---|---|
 | **6º** · 2026/2 | 📝 **Artigo científico** | Em desenvolvimento | — |
 | **5º** · 2026/1 | 🐾 **PetTrail** — [demo](https://pmg-es-2026-1-ti5-6904100-pet-trail.vercel.app) | Plataforma mobile + web que conecta tutores de pets a passeadores, com **rastreamento GPS em tempo real**, confirmação por QR Code e relatórios automáticos do trajeto | ![Flutter](https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=white) ![Next.js](https://img.shields.io/badge/Next.js-000?logo=next.js&logoColor=white) ![NestJS](https://img.shields.io/badge/NestJS-E0234E?logo=nestjs&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?logo=postgresql&logoColor=white) ![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?logo=rabbitmq&logoColor=white) ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=black) |
-| **4º** · 2025/2 | 🤝 **Grupo Scheilla** | Plataforma com **site público** e **painel administrativo** para gestão de famílias e campanhas, com API própria em Django | ![Next.js](https://img.shields.io/badge/Next.js-000?logo=next.js&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?logo=typescript&logoColor=white) ![Tailwind](https://img.shields.io/badge/Tailwind-38B2AC?logo=tailwindcss&logoColor=white) ![Django](https://img.shields.io/badge/Django-092E20?logo=django&logoColor=white) |
+| **4º** · 2025/2 | 🤝 **Grupo Scheilla** | Software de gestão para o **Grupo Espírita Scheilla** (instituição filantrópica de 71 anos): painel administrativo para controle financeiro, famílias assistidas e voluntários, e site público para divulgação e captação de recursos | ![Next.js](https://img.shields.io/badge/Next.js-000?logo=next.js&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?logo=typescript&logoColor=white) ![Tailwind](https://img.shields.io/badge/Tailwind-38B2AC?logo=tailwindcss&logoColor=white) ![Django](https://img.shields.io/badge/Django-092E20?logo=django&logoColor=white) |
 | **3º** · 2025/1 | 🚚 **Fabiana Móveis** — Gerenciador de Rotas de Entregas | Sistema para uma loja de móveis real: gera **rotas dinâmicas de entrega** conforme a demanda diária, com dashboard semanal e relatórios em PDF | ![Next.js](https://img.shields.io/badge/Next.js-000?logo=next.js&logoColor=white) ![NestJS](https://img.shields.io/badge/NestJS-E0234E?logo=nestjs&logoColor=white) ![TypeORM](https://img.shields.io/badge/TypeORM-FE0803?logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?logo=postgresql&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-232F3E?logo=amazonaws&logoColor=white) |
 | **2º** · 2024/2 | 📚 **Gnosi** | Plataforma de cursos online com interação aluno–professor: cadastro de cursos, acompanhamento de progresso e **certificação** | ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?logo=typescript&logoColor=white) ![Java](https://img.shields.io/badge/Java-ED8B00?logo=openjdk&logoColor=white) ![Spring](https://img.shields.io/badge/Spring-6DB33F?logo=spring&logoColor=white) |
 | **1º** · 2024/1 | 🍳 **Cook Connect** — [demo](https://pmg-es-2024-1-ti1-2010100-cook-connect.vercel.app) | Rede social para cozinheiros e entusiastas, com receitas e espaço de discussão | ![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black) |
